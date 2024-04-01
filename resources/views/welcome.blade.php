@@ -10,29 +10,9 @@
     <style>
         html,
 
-        #wrapper {
-            margin-right: auto;
-            /* 1 */
-            margin-left: auto;
-            /* 1 */
 
-            max-width: 1500px;
-            /* 2 */
 
-            padding-right: 0px;
-            /* 3 */
-            padding-left: 0px;
-            /* 3 */
-        }
 
-        .bottom {
-            height: 25px;
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            padding: 0;
-        }
 
         header {
             background-color: white;
